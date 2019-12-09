@@ -1,0 +1,35 @@
+- authors: <b>W.Y. Wang</b>, Z.C. Dong, B. An, Y.C. Jiang.
+  title:  Efficient City-Scale Patrolling Using Decomposition and Grafting
+  conference: Proceedings of the 18th International Conference on Autonomous Agents and Multiagent Systems
+  conference_abbr: AAMAS-19
+  address: Montreal, Canada,
+  date: May 13-17, 2019.
+  others:
+- authors: <b>W.Y. Wang</b>, B. An, Y.C. Jiang.
+  title:  Optimal Spot-Checking for Improving Evaluation Accuracy of Peer Grading Systems
+  conference: Proceedings of the 32nd AAAI Conference on Artificial Intelligence
+  conference_abbr: AAAI-18
+  address: New Orleans, USA,
+  date: February 2-7, 2018. 
+  others:
+- authors: <b>W.Y.Wang</b>, Z.P. He, P. Shi, W. W. Wu, Y. C. Jiang.
+  title:  Truthful Team Formation for Crowdsourcing in Social Networks.
+  conference: Proceedings of the 15th International Conference on Autonomous Agents and Multiagent Systems 
+  conference_abbr: AAMAS-16
+  address: Singapore, 
+  date: May 9-13, 2016.
+  others: 
+- authors: <b>W.Y. Wang</b>, Y.C. Jiang.
+  title:  A Practical Negotiation-Based Team Formation Model for Non-Cooperative Social Networks.
+  conference: Proceedings of the 2014 IEEE International Conference on Tools with Artificial Intelligence
+  conference_abbr: ICTAI-14
+  address: Limassol, Cyprus,
+  date: November 10-12, 2014.
+  others: (<span style="color:red">Best Student Paper Award</span>)
+- authors: <b>W.Y. Wang</b>, Y.C. Jiang.
+  title:  Migration Cost-Sensitive Load Balancing for Social Networked Multiagent Systems with Communities.
+  conference: Proceedings of the 2013 IEEE International Conference on Tools with Artificial Intelligence 
+  conference_abbr: ICTAI-13
+  address: Washington, DC, USA, 
+  date: November 4-6, 2013. 
+  others: 

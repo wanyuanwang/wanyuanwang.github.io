@@ -1,0 +1,9 @@
+<div class="row">
+  <div class="col-sm-8 offset-sm-2" >
+      <nav class="navbar navbar-light nav-fill nav-justified justify-content-center mt-3 mb-3" style="background-color: #E8E8E8;" >
+          {% for item in site.data.navigation %}
+          <a class="nav-item" href="{{item.link}}" style="font-size:larger;color:#383838">{{item.name}}</a>
+          {% endfor %}
+        </nav>
+  </div>        
+</div>

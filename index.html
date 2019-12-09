@@ -1,0 +1,74 @@
+---
+layout: default
+---
+<div class="row">
+    <div class="col-sm-8 offset-sm-2">
+        <h3 class="mt-4" style="border-top:3px solid; border-bottom:1px solid; "> Brief biography </h3>
+        <p>
+                王万元，硕导。2016年毕业于东南大学获得博士学位，2017年新加坡南洋理工大学从事博士后研究工作。研究方向主要为群集智能，多智能系统，运筹优化，强化学习以及博弈论,在教育、城市交通以及众包。欢迎致力于算法解决实际问题的研究生报考！
+        </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm-8 offset-sm-2">
+        <h3 class="mt-4" style="border-top:3px solid; border-bottom:1px solid; ">Research Interests</h3>
+        <ul>
+            {% for item in site.data.research_interests %}
+            <li>
+                {{item.name}}
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm-8 offset-sm-2">
+        <h3 class="mt-4" style="border-top:3px solid; border-bottom:1px solid; ">Academic Rewards</h3>
+        <ul>
+            {% for item in site.data.academic_rewards %}
+            <li>
+                {{item.date}}, {{item.name}}
+            </li>
+            {% endfor %}
+        </ul>
+    </div> 
+</div>
+<div class="row">
+    <div class="col-sm-8 offset-sm-2">
+        <h3 class="mt-4" style="border-top:3px solid; border-bottom:1px solid; "> Latest News </h3>
+        <ul>
+            {% for item in site.data.news %}
+            <li>
+                [ {{item.date}} ] {{item.news}}
+            </li>
+            {% endfor %}
+        </ul> 
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm-8 offset-sm-2">
+        <h3 class="mt-4" style="border-top:3px solid; border-bottom:1px solid; "> Technical Program Committee Member</h3>
+        <ul>
+            {% for item in site.data.committee_member %}
+            <li>
+                {{item.name}}
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+
+<div class="row">
+        <div class="col-sm-8 offset-sm-2">
+            <h3 class="mt-4" style="border-top:3px solid; border-bottom:1px solid; ">Academic Projects Involved</h3>
+            <ul>
+                {% for item in site.data.academic_projects %}
+                <li>
+                    [{{item.date}}] {{item.name_eng}}<br>
+                    {{ item.name_ch }}<br>
+                    {{ item.descrption }}<br>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+</div>

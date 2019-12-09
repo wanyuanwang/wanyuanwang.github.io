@@ -1,0 +1,10 @@
+- name: Home
+  link: \
+- name: Publications
+  link: \publications.html
+- name: Courses
+  link: \courses.html
+- name: Experiences
+  link: \experiences.html
+- name: Useful Links
+  link: useful_links.html
