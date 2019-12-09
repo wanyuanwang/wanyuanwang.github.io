@@ -5,8 +5,20 @@ layout: default
     <div class="col-sm-8 offset-sm-2">
         <h3 class="mt-4" style="border-top:3px solid; border-bottom:1px solid; "> Brief biography </h3>
         <p>
-                王万元，硕导。2016年毕业于东南大学获得博士学位，2017年新加坡南洋理工大学从事博士后研究工作。研究方向主要为群集智能，多智能系统，运筹优化，强化学习以及博弈论,在教育、城市交通以及众包。欢迎致力于算法解决实际问题的研究生报考！
+            {{site.resume_biography}}
         </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm-8 offset-sm-2">
+        <h3 class="mt-4" style="border-top:3px solid; border-bottom:1px solid; "> Latest News </h3>
+        <ul>
+            {% for item in site.data.news %}
+            <li>
+                [ {{item.date}} ] {{item.news}}
+            </li>
+            {% endfor %}
+        </ul> 
     </div>
 </div>
 <div class="row">
@@ -23,27 +35,19 @@ layout: default
 </div>
 <div class="row">
     <div class="col-sm-8 offset-sm-2">
-        <h3 class="mt-4" style="border-top:3px solid; border-bottom:1px solid; ">Academic Rewards</h3>
+        <h4 style="border-top:3px solid; border-bottom:1px solid; ">Education</h4>
         <ul>
-            {% for item in site.data.academic_rewards %}
             <li>
-                {{item.date}}, {{item.name}}
+                BS in Science, Nanjing University of Aeronautics and Astronautics, China, 2007-2011.
             </li>
-            {% endfor %}
+            <li>
+                Ph.D in Computer Science, Southeast University, China, 2011-2016.
+            </li>
+            <li>
+                Postdoc in Computer Science, Nanyang Technological University, Singapore, 2016-2017.
+            </li>
         </ul>
     </div> 
-</div>
-<div class="row">
-    <div class="col-sm-8 offset-sm-2">
-        <h3 class="mt-4" style="border-top:3px solid; border-bottom:1px solid; "> Latest News </h3>
-        <ul>
-            {% for item in site.data.news %}
-            <li>
-                [ {{item.date}} ] {{item.news}}
-            </li>
-            {% endfor %}
-        </ul> 
-    </div>
 </div>
 <div class="row">
     <div class="col-sm-8 offset-sm-2">

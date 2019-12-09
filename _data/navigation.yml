@@ -2,9 +2,7 @@
   link: \
 - name: Publications
   link: \publications.html
-- name: Courses
-  link: \courses.html
-- name: Experiences
-  link: \experiences.html
-- name: Useful Links
-  link: useful_links.html
+- name: Rewards
+  link: \rewards.html
+- name: Students
+  link: \students.html
