@@ -4,18 +4,19 @@ layout: default
 <div class="row">
     <div class="col-sm-8 offset-2">
         <h5 class="mt-2 mb-2 "><b>Notes: </b> *:cooresponding authuor,$:the student (co)supervised</h5>
-        <h4 style="border-top:3px solid; border-bottom:1px solid; ">Conference Papers</h4>
-        <ol>
-            {% for item in site.data.conference_papers %}
-                <li> {{item.authors}} {{item.title}} {{item.conference}} (<b>{{item.conference_abbr}}</b>) {{item.address}} {{item.date}} {{item.others}} </li>
-            {% endfor %}
-        </ol>
         <h4 style="border-top:3px solid; border-bottom:1px solid; ">IEEE/ACM Transactions</h4>
         <ol>
             {% for item in site.data.ieee_acm_transactions_papers %}
                 <li> {{item.authors}} {{item.title}} <b>{{item.journal}}</b> {{item.date}} </li>
             {% endfor %}
         </ol>
+        <h4 style="border-top:3px solid; border-bottom:1px solid; ">Conference Papers</h4>
+        <ol>
+            {% for item in site.data.conference_papers %}
+                <li> {{item.authors}} {{item.title}} {{item.conference}} (<b>{{item.conference_abbr}}</b>) {{item.address}} {{item.date}} {{item.others}} </li>
+            {% endfor %}
+        </ol>
+      
         <h4 style="border-top:3px solid; border-bottom:1px solid; ">Other International Journals</h4>
         <ol>
             {% for item in site.data.other_journal_papers %}
