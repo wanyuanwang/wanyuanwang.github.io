@@ -11,18 +11,6 @@ layout: default
 </div>
 <div class="row">
     <div class="col-sm-8 offset-sm-2">
-        <h3 class="mt-4" style="border-top:3px solid; border-bottom:1px solid; "> Latest News </h3>
-        <ul>
-            {% for item in site.data.news %}
-            <li>
-                [ {{item.date}} ] {{item.news}}
-            </li>
-            {% endfor %}
-        </ul> 
-    </div>
-</div>
-<div class="row">
-    <div class="col-sm-8 offset-sm-2">
         <h3 class="mt-4" style="border-top:3px solid; border-bottom:1px solid; ">Research Interests</h3>
         <ul>
             {% for item in site.data.research_interests %}
@@ -48,6 +36,18 @@ layout: default
             </li>
         </ul>
     </div> 
+</div>
+<div class="row">
+    <div class="col-sm-8 offset-sm-2">
+        <h3 class="mt-4" style="border-top:3px solid; border-bottom:1px solid; "> Latest News </h3>
+        <ul>
+            {% for item in site.data.news %}
+            <li>
+                [ {{item.date}} ] {{item.news}}
+            </li>
+            {% endfor %}
+        </ul> 
+    </div>
 </div>
 <div class="row">
     <div class="col-sm-8 offset-sm-2">
