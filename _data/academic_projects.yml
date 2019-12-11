@@ -1,12 +1,8 @@
-- date: 2019.1.1
-  name_eng: test
-  name_ch:  测试
-  descrption: 一个项目
-- date: 2019.1.1
-  name_eng: test
-  name_ch:  测试
-  descrption: 一个项目
-- date: 2019.1.1
-  name_eng: test
-  name_ch:  测试
-  descrption: 一个项目
+- date: 2019.01---2021.12
+  name_eng: Multiagent Game Theory-Based Model Study of Quality Optimization in Hybrid Collaborative Crowdsourcing Systems
+  name_ch:  混杂协作式环境中基于多Agent博弈的众包质量优化模型研究
+  descrption: PI
+- date: 2018.07---2021.07
+  name_eng: Multiagent-based Quality Optimization in Heterogeneous Crowdsourcing Systems 
+  name_ch: 基于多Agent的异质众包系统质量优化模型研究
+  descrption: PI
