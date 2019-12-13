@@ -69,8 +69,8 @@ layout: default
                 {% for item in site.data.academic_projects %}
                 <li>
                     [{{item.date}}] {{item.name_eng}}<br>
-                    {{ item.name_ch }}<br>
-                    {{ item.descrption }}<br>
+                    %{{ item.name_ch }}<br>%
+                    %{{ item.descrption }}<br>%
                 </li>
                 {% endfor %}
             </ul>
