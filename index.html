@@ -11,18 +11,6 @@ layout: default
 </div>
 <div class="row">
     <div class="col-sm-8 offset-sm-2">
-        <h3 class="mt-4" style="border-top:3px solid; border-bottom:1px solid; ">Research Interests</h3>
-        <ul>
-            {% for item in site.data.research_interests %}
-            <li>
-                {{item.name}}
-            </li>
-            {% endfor %}
-        </ul>
-    </div>
-</div>
-<div class="row">
-    <div class="col-sm-8 offset-sm-2">
         <h4 style="border-top:3px solid; border-bottom:1px solid; ">Education</h4>
         <ul>
             <li>
@@ -34,6 +22,18 @@ layout: default
             <li>
                 Postdoc in Computer Science, Nanyang Technological University, Singapore, 2016-2017.
             </li>
+        </ul>
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm-8 offset-sm-2">
+        <h3 class="mt-4" style="border-top:3px solid; border-bottom:1px solid; ">Research Interests</h3>
+        <ul>
+            {% for item in site.data.research_interests %}
+            <li>
+                {{item.name}}
+            </li>
+            {% endfor %}
         </ul>
     </div> 
 </div>
