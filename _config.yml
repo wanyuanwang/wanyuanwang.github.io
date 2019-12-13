@@ -1,7 +1,7 @@
 # presonal infomation part
 resume_name:                    "Wanyuan Wang"
 resume_chinese_name:            "王万元"
-resume_biography:               "He received his PhD. degree in computer science from Southeast University, 2016. He has published several articles in refereed journals and conference proceedings, such as the IEEE Transactions on Mobile Computing, IEEE Journal on Selected Areas in Communications, IEEE Transactions on Cybernetics, AAAI, and AAMAS. He won the best student paper award from ICTAI14. His main research interests include artificial intelligence, multiagent systems, and game theory."
+resume_biography:               <h1 style="text-align:justify">"He received his PhD. degree in computer science from Southeast University, 2016. He has published several articles in refereed journals and conference proceedings, such as the IEEE Transactions on Mobile Computing, IEEE Journal on Selected Areas in Communications, IEEE Transactions on Cybernetics, AAAI, and AAMAS. He won the best student paper award from ICTAI14. His main research interests include artificial intelligence, multiagent systems, and game theory."</h1>
 resume_job_title:               "Assistant Professor"
 resume_department:              "School of Computer Science and Engineering"
 resume_university:              "Southeast University"
