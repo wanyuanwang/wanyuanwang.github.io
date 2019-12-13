@@ -7,20 +7,20 @@ layout: default
         <h4 style="border-top:3px solid; border-bottom:1px solid; ">IEEE/ACM Transactions</h4>
         <ol>
             {% for item in site.data.ieee_acm_transactions_papers %}
-                <li> <p style=text-align:justify> {{item.authors}} {{item.title}} <b>{{item.journal}}</b> {{item.date}} </p> </li>
+                <li> <h6 style=text-align:justify> {{item.authors}} {{item.title}} <b>{{item.journal}}</b> {{item.date}} </h6> </li>
             {% endfor %}
         </ol>
         <h4 style="border-top:3px solid; border-bottom:1px solid; ">Conference Papers</h4>
         <ol>
             {% for item in site.data.conference_papers %}
-                <li> {{item.authors}} {{item.title}} {{item.conference}} (<b>{{item.conference_abbr}}</b>) {{item.address}} {{item.date}} {{item.others}} </li>
+                <li> <h7 style=text-align:justify> {{item.authors}} {{item.title}} {{item.conference}} (<b>{{item.conference_abbr}}</b>) </h7> {{item.address}} {{item.date}} {{item.others}} </li>
             {% endfor %}
         </ol>
       
         <h4 style="border-top:3px solid; border-bottom:1px solid; ">Other International Journals</h4>
         <ol>
             {% for item in site.data.other_journal_papers %}
-                <li> {{item.authors}} {{item.title}} <b>{{item.journal}}</b> {{item.date}} </li>
+                <li> <h8 style=text-align:justify> {{item.authors}} {{item.title}} <b>{{item.journal}}</b> {{item.date}} </h8> </li>
             {% endfor %}
         </ol>
     </div>
