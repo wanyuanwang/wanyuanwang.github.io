@@ -1,3 +1,4 @@
+
 - authors: <b>W.Y. Wang</b>, H.S. Tao, Y.C. Jiang. 
   title: Efficient Online City-Scale Patrolling by Exploiting Offline Model-based Coordination Policy.
   journal: IEEE Transactions on Intelligent Transportation Systems, in press,
@@ -6,6 +7,11 @@
 - authors: Y.H. Xu, <b>W.Y. Wang*</b>, G.W. Xiong, X. Liu, W.W. Wu, K. Liu. 
   title: Network-Flow-Based Efficient Vehicle Dispatch for City-Scale Ride-hailing Systems.
   journal: IEEE Transactions on Intelligent Transportation Systems, in press,
+  date: 2021.
+  
+- authors: W.W. Wu, <b>W.Y. Wang*</b>, X.L. Fang, J.L. Luo, A.V. Vasilakos. 
+  title: Electricity Price-aware Consolidation  Algorithms for Time-sensitive VM Services in Cloud Systems.
+  journal: IEEE Transactions on Services Computing, 14(6):1726-1738,
   date: 2021.
     
 - authors: <b>W.Y. Wang</b>, Z.C. Dong, B. An, Y.C. Jiang. 
@@ -17,11 +23,6 @@
   title: Optimal Spot-Checking for Improving the Evaluation Quality of Crowdsourcing:Application to Peer Grading Systems.
   journal: IEEE Transactions on Computational Social Systems, 7(4):940-955,
   date: 2020.
-
-- authors: W.W. Wu, <b>W.Y. Wang*</b>, X.L. Fang, J.L. Luo, A.V. Vasilakos. 
-  title: Electricity Price-aware Consolidation  Algorithms for Time-sensitive VM Services in Cloud Systems.
-  journal: IEEE Transactions on Services Computing, in press,
-  date: 2019.
 
 - authors: <b>W.Y. Wang</b>, Z.P. He, P. Shi, W.W. Wu, Y.C. Jiang, B. An.
   title: Strategic Social Team Crowdsourcing Forming a Team of Truthful Workers for Crowdsourcing in Social Networks.
