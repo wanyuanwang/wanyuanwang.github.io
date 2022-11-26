@@ -1,13 +1,18 @@
 
+- authors: X. Liu, C.C. Fu, W.W. Wu, M.M. Li; <b>W.Y. Wang</b>; V. Chau; J.Z. Luo. 
+  title: Budget-Feasible Mechanisms in Two-sided Crowdsensing Markets: Truthfulness, Fairness, and Efficiency.
+  journal: IEEE Transactions on Mobile Computing, in press,
+  date: 2022.
+  
 - authors: <b>W.Y. Wang</b>, H.S. Tao, Y.C. Jiang. 
   title: Efficient Online City-Scale Patrolling by Exploiting Offline Model-based Coordination Policy.
-  journal: IEEE Transactions on Intelligent Transportation Systems, in press,
-  date: 2021.
+  journal: IEEE Transactions on Intelligent Transportation Systems, 23(8):13805-13818,
+  date: 2022.
   
 - authors: Y.H. Xu, <b>W.Y. Wang*</b>, G.W. Xiong, X. Liu, W.W. Wu, K. Liu. 
   title: Network-Flow-Based Efficient Vehicle Dispatch for City-Scale Ride-hailing Systems.
-  journal: IEEE Transactions on Intelligent Transportation Systems, in press,
-  date: 2021.
+  journal: IEEE Transactions on Intelligent Transportation Systems, 23(6):5526-5538,
+  date: 2022.
   
 - authors: W.W. Wu, <b>W.Y. Wang*</b>, X.L. Fang, J.L. Luo, A.V. Vasilakos. 
   title: Electricity Price-aware Consolidation  Algorithms for Time-sensitive VM Services in Cloud Systems.
