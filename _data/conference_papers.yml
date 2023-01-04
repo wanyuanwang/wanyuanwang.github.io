@@ -1,10 +1,17 @@
+- authors: Q. Che, <b> W.Y. Wang</b>, F.C. Wang, T.C. Qiao, X. Liu, J.C. Jiang, B. An, Y.C Jiang.
+  title: Structural Credit Assignment-Guided Coordinated MCTS An Efficient and Scalable Method for Online Multiagent Planning,
+  conference: Proceedings of the 22nd International Conference on Autonomous Agents and Multiagent Systems
+  conference_abbr: (AAMAS'23),
+  address: London, United Kingdom.,
+  date: 29 May-2 June, 2023.
+  others: <b> Full Paper </b>
 - authors: <b> W.Y. Wang</b>, G.R. Wu, W.W. Wu, Y.C. Jiang, B. An.
   title: Online Collective Multiagent Planning by Offline Policy Reuse with Applications to City-Scale Mobility-on-Demand Systems,
   conference: Proceedings of the 21st International Conference on Autonomous Agents and Multiagent Systems
   conference_abbr: (AAMAS'22),
   address: Auckland, New Zealand,
   date: May 9-13, 2022.
-  others: <b> Full Paper </b
+  others: <b> Full Paper </b>
 - authors: X. Liu, W.W. Wu, M.M. Li, <b> W.Y. Wang</b>.
   title: Budget Feasible Mechanisms Over Graphs,
   conference: Proceedings of the 35th AAAI Conference on Artificial Intelligence
