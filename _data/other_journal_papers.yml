@@ -1,34 +1,4 @@
-- authors:  Y.X. Li, Q. Che, F.M. Wang, Y.F. Zhou, C.Y. Li, <b>W.Y. Wang*</b>.
-  title: A Multi-agent Based Method for Large-Scale Route Planning Using Distributed Constraint Optimization, 
-  journal: The 6th IEEE International Conference on Unmanned Systems, 
-  date: 2023.
-  
-- authors: Y.X. Li, Q. Che, F.C. Wang, H.Y. Zhang, <b>W.Y. Wang*</b>, Y.C Jiang.
-  title: A Method for Security Traffic Patrolling Based on Structural Coordinated Proximal Policy Optimization, 
-  journal: The 18th CCF Conference on Computer Supported Cooperative Work and Social Computing (ChineseCSCW2023), 
-  date: 2023.
-  
-- authors: Y.X. Li, Q. Che, Y.F. Zhou, <b>W.Y. Wang*</b>, Y.C Jiang.
-  title: Explicit Coordination Based Multi-Agent Reinforcement Learning for Intelligent Traffic Signal Control, 
-  journal: The 18th CCF Conference on Computer Supported Cooperative Work and Social Computing (ChineseCSCW2023), 
-  date: 2023.
-  
-- authors: X. Liu, W.W. Wu, <b>W.Y. Wang*</b>, Y.H. Xu, X.M. Wang, H.L. Cui.
-  title: Budget-Feasible Sybil-Proof Mechanisms for Crowdsensing, 
-  journal: Theoretical Computer Science, in press, 
-  date: 2023.
-  
-- authors: <b>W.Y. Wang</b>, H.S. Tao, Y.C.Jiang.
-  title: Efficient Delivery Services Sharing with Time Windows, 
-  journal: Applied Science, 10(21), 7431, 
-  date: 2020.
-  
 - authors: P. Shi<sup>$</sup>, M.Y. Zhao, <b>W. Wang</b>, Y.F. Zhou, J.C. Jiang, Y.C.Jiang. Z.F. Hao, J.Y. Yu.
   title: Best of Both Worlds:Mitigating Imbalance of Crowd Worker Strategic Choices without A Budget, 
   journal: Knowledge-Based Systems, 163:1020-1031, 
-  date: 2019.
-
-- authors: P. Shi<sup>$</sup>,<b> W. Wang</b>, Y.F. Zhou, J.C. Jiang, Y.C.Jiang. Z.F Hao, J.Y. Yu. 
-  title: Practical POMDP-Based Test Mechanism for Quality Assurance in Volunteer Crowdsourcing, 
-  journal: Enterprise Information Systems,13(7-8):979-1001, 
   date: 2019. 
