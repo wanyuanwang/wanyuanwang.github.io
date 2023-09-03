@@ -20,7 +20,7 @@ layout: default
         <h4 style="border-top:3px solid; border-bottom:1px solid; ">Other Journals/Conference Papers</h4>
         <ol>
             {% for item in site.data.other_journal_papers %}
-                <li> <div style="text-align:justify"> {{item.authors}} {{item.title}} <b>{{item.journal}}</b> {{item.date}} </div> </li>
+                <li> <div style="text-align:justify"> {{item.authors}} {{item.title}} <b>{{item.journal}}</b> {{item.date}} {{item.others}}</div> </li>
             {% endfor %}
         </ol>
     </div>
