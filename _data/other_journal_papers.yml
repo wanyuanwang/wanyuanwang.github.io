@@ -1,4 +1,20 @@
 - authors: P. Shi<sup>$</sup>, M.Y. Zhao, <b>W. Wang</b>, Y.F. Zhou, J.C. Jiang, Y.C.Jiang. Z.F. Hao, J.Y. Yu.
   title: Best of Both Worlds:Mitigating Imbalance of Crowd Worker Strategic Choices without A Budget, 
   journal: Knowledge-Based Systems, 163:1020-1031, 
-  date: 2019. 
+  date: 2019. <b> CCF C, JCR Q1</b> 
+
+  - authors: <b>W.Y. Wang</b>, Y.C. Jiang.
+  title:  A Practical Negotiation-Based Team Formation Model for Non-Cooperative Social Networks,
+  conference: Proceedings of the 2014 IEEE International Conference on Tools with Artificial Intelligence
+  conference_abbr: (ICTAI'14),
+  address: Limassol, Cyprus,
+  date: November 10-12, 2014.
+  others: <b>CCF C </b> (<span style="color:red">Best Student Paper Award</span>)
+  
+- authors: <b>W.Y. Wang</b>, Y.C. Jiang.
+  title:  Migration Cost-Sensitive Load Balancing for Social Networked Multiagent Systems with Communities,
+  conference: Proceedings of the 2013 IEEE International Conference on Tools with Artificial Intelligence 
+  conference_abbr: (ICTAI'13),
+  address: Washington, DC, USA,
+  date: November 4-6, 2013. 
+  others: <b> CCF C </b>
