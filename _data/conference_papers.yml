@@ -1,3 +1,11 @@
+- authors: H.Y. Chen, P.Y. Sun, Q.Y. Song, <b> W.Y. Wang</b>, W.W. Wu, W.C. Zhang, G.Y. Gao, Y. Lyu.
+  title: i-Rebalance: Personalized Vehicle Repositioning for Supply Demand Balance,
+  conference: Proceedings of the 38th AAAI Conference on Artificial Intelligence
+  conference_abbr: (AAAI'24),
+  address: Vancouver, Canada,
+  date: February 20-27, 2024,
+  others: <b> CCF A</b>
+  
 - authors: Q. Che, <b> W.Y. Wang*</b>, F.C. Wang, T.C. Qiao, X. Liu, J.C. Jiang, B. An, Y.C Jiang.
   title: Structural Credit Assignment-Guided Coordinated MCTS&#58; An Efficient and Scalable Method for Online Multiagent Planning,
   conference: Proceedings of the 22nd International Conference on Autonomous Agents and Multiagent Systems
