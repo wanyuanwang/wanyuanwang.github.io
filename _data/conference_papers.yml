@@ -1,3 +1,11 @@
+- authors: Y.X. Li, W.Y. Xu, Y.C. Deng, W.W. Wu, <b> W.Y. Wang</b>
+  title: Factor Graph Neural Network Meets Max-Sum: A Real-Time Route Planning Algorithm for Massive-Scale Trips,
+  conference: Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems
+  conference_abbr: (AAMAS'24),
+  address: Auckland, New Zealand,
+  date: May 6-10, 2024.
+  others: <b> CCF B </b>
+
 - authors: H.Y. Chen, P.Y. Sun, Q.Y. Song, <b> W.Y. Wang</b>, W.W. Wu, W.C. Zhang, G.Y. Gao, Y. Lyu.
   title: i-Rebalance Personalized Vehicle Repositioning for Supply Demand Balance,
   conference: Proceedings of the 38th AAAI Conference on Artificial Intelligence
