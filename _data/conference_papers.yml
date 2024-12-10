@@ -1,3 +1,11 @@
+- authors: Y.X. Li, C. Chen, J.J. Li, J.H. Duan, X.W. Han, T. Zhong, V. Chau, W.W. Wu, <b> W.Y. Wang*</b>.
+  title: Fast and Interpretable Mixed-Integer Linear Program Solving by Learning Model Reduction,
+  conference: Proceedings of the 39th AAAI Conference on Artificial Intelligence
+  conference_abbr: (AAAI'25),
+  address: Philadelphia, USA,
+  date: February 27-March 4, 2025,
+  others: <b> CCF A</b>
+  
 - authors: Y.X. Li, <b>W.Y. Wang*</b>, W.Y. Xu, Y.C. Deng, W.W. Wu.
   title: Factor Graph Neural Network Meets Max-Sum A Real-Time Route Planning Algorithm for Massive-Scale Trips,
   conference: Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems
