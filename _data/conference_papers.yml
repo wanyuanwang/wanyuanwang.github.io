@@ -1,3 +1,11 @@
+- authors: H.T. Zhang, <b>W.Y. Wang</b>.
+  title: Fast Adaption by Policy Deviation Integral Meta-reinforcement Learning with Applications to High-speed Trains Operation,
+  conference: Proceedings of the 24th International Conference on Autonomous Agents and Multiagent Systems
+  conference_abbr: (AAMAS'25),
+  address: Detroit, Michigan, USA,
+  date: May 19-23, 2025,
+  others: <b> CCF B </b>
+  
 - authors: Y.X. Li, C. Chen, J.J. Li, J.H. Duan, X.W. Han, T. Zhong, V. Chau, W.W. Wu, <b> W.Y. Wang*</b>.
   title: Fast and Interpretable Mixed-Integer Linear Program Solving by Learning Model Reduction,
   conference: Proceedings of the 39th AAAI Conference on Artificial Intelligence
