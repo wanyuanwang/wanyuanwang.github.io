@@ -1,3 +1,11 @@
+- authors: B. Ling, Z.Y. Gan, <b>Wanyuan Wang</b>, G.Y. Gao, W.W. Wu, Y. Lyu.
+  title: Faithful Dynamic Imitation Learning from Human Intervention with Dynamic Regret Minimization,
+  conference: The Thirty-ninth Annual Conference on Neural Information Processing Systems
+  conference_abbr: (NeurIPS'25),
+  address: Mexico City, California, USA,
+  date: December 9-15, 2025,
+  others: <b> CCF A </b>
+  
 - authors: H.T. Zhang, <b>W.Y. Wang</b>.
   title: Fast Adaption by Policy Deviation Integral Meta-reinforcement Learning with Applications to High-speed Trains Operation,
   conference: Proceedings of the 24th International Conference on Autonomous Agents and Multiagent Systems
