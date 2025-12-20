@@ -1,3 +1,11 @@
+- authors: Z.R. Yu, C.C. Fu, H.K. Zhong, <b>W.Y. Wang*</b>, W.W. Wu, C.J. Xue.
+  title: Learning from Delay Distributions A New Representation for Delay-Aware Reinforcement Learning,
+  conference: The 25th International Conference on Autonomous Agents and Multi-Agent Systems
+  conference_abbr: (AAMAS'26),
+  address: Paphos, Cyprus,
+  date: May 27-29, 2026,
+  others: <b> CCF B</b>
+  
 - authors: J.B. Yu, Y.X. Li, H. Xu, K. Xu, J.J.L. Xu, Z.J. Li, P.J. He, <b> W.Y. Wang*</b>.
   title: MicLog Towards Accurate and Efficient LLM-based Log Parsing via Progressive Meta In-Context Learning,
   conference: Proceedings of the 40th AAAI Conference on Artificial Intelligence
