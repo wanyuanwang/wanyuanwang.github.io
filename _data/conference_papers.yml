@@ -1,3 +1,11 @@
+- authors: J.J. Li, Y.X. Li, R. Hou, Y. Ding, S.S. Guan, J.H. Duan, X.W. Han, T. Zhong, V. Chau, W.W. Wu, Z.Y. Liu, <b> W.Y. Wang*</b>.
+  title: Constraint Matters Multi-Modal Representation for Reducing Mixed-Integer Linear programming,
+  conference: Proceedings of the 14th International Conference on Learning Representations
+  conference_abbr: (ICLR'26),
+  address: Rio de Janeiro, Brazil,
+  date: April 23-27, 2026, 2026,
+  others: 
+  
 - authors: Z.R. Yu, C.C. Fu, H.K. Zhong, <b>W.Y. Wang*</b>, W.W. Wu, C.J. Xue.
   title: Learning from Delay Distributions A New Representation for Delay-Aware Reinforcement Learning,
   conference: The 25th International Conference on Autonomous Agents and Multi-Agent Systems
