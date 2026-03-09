@@ -4,7 +4,7 @@
   conference_abbr: (ICLR'26),
   address: Rio de Janeiro, Brazil,
   date: April 23-27, 2026, 2026,
-  others: 
+  others: <b> CCF A</b>
   
 - authors: Z.R. Yu, C.C. Fu, H.K. Zhong, <b>W.Y. Wang*</b>, W.W. Wu, C.J. Xue.
   title: Learning from Delay Distributions A New Representation for Delay-Aware Reinforcement Learning,
