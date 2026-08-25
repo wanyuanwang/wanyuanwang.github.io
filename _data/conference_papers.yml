@@ -1,9 +1,17 @@
+- authors: T.Y Fu, Y.R. Xie, Y.P. Ma, <b> W.Y. Wang*</b>.
+  title: Ask Answer or Act Learning Interaction Modes for Tool-Use Agents,
+  conference: The 2026 Conference on Empirical Methods in Natural Language Processing
+  conference_abbr: (EMNLP'26),
+  address: Budapest, Hungary,
+  date: October 24-29, 2026,
+  others: <b> CCF B</b>
+  
 - authors: J.J. Li, Y.X. Li, R. Hou, Y. Ding, S.S. Guan, J.H. Duan, X.W. Han, T. Zhong, V. Chau, W.W. Wu, Z.Y. Liu, <b> W.Y. Wang*</b>.
   title: Constraint Matters Multi-Modal Representation for Reducing Mixed-Integer Linear programming,
   conference: Proceedings of the 14th International Conference on Learning Representations
   conference_abbr: (ICLR'26),
   address: Rio de Janeiro, Brazil,
-  date: April 23-27, 2026, 2026,
+  date: April 23-27, 2026,
   others: <b> CCF A</b>
   
 - authors: Z.R. Yu, C.C. Fu, H.K. Zhong, <b>W.Y. Wang*</b>, W.W. Wu, C.J. Xue.
