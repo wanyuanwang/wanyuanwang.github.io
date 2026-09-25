@@ -1,3 +1,19 @@
+- authors: J.H X, P.Y. Wang, H.Z. Zhang, Z.H. Yu, T.Y. Fu, H. Chen, X.H. Xiang, Z.X. Li, J.B. Yu, C.C. Fu, <b> W.Y. Wang*</b>.
+  title: Grasp-Then-Plan with Failure Attribution A Closed Two-Stage Framework for Precise and Generalizable Robotic Manipulation,
+  conference: The Fortieth Annual Conference on Neural Information Processing Systems
+  conference_abbr: (NeurIPS'26),
+  address: Sydney, Australis
+  date: December 06-12, 2026,
+  others: <b> CCF A</b>
+
+- authors: Y. Ding, J.J. Li, R. Hou, J.H. Duan, G.Y. Nie, X.W. Han, T. Zhong, V. Chau, W.W. Wu, <b> W.Y. Wang*</b>.
+  title: Complex Optimization Modeling via Multiagent Fine-Tuning and Skill-Augmented Reasoning,
+  conference: The Fortieth Annual Conference on Neural Information Processing Systems
+  conference_abbr: (NeurIPS'26),
+  address: Sydney, Australis
+  date: December 06-12, 2026,
+  others: <b> CCF A</b>
+  
 - authors: T.Y Fu, Y.R. Xie, Y.P. Ma, <b> W.Y. Wang*</b>.
   title: Ask Answer or Act Learning Interaction Modes for Tool-Use Agents,
   conference: The 2026 Conference on Empirical Methods in Natural Language Processing
